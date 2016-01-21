@@ -1,5 +1,5 @@
 # Gmkt.Ajax.Loader
-https://github.com/WangKooN/Gmkt.Ajax.Loader/
+https://github.com/Guide-Line/Gmkt.Ajax.Loader
 
 ## Summary
 - 상품코드를 통해 판매상품의 정보를 가져올 수 있습니다.
